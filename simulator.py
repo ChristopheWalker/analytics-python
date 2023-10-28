@@ -1,4 +1,4 @@
-import logging
+import#logging
 import argparse
 import json
 import segment.analytics as analytics
@@ -97,4 +97,4 @@ if func:
     analytics.shutdown()
 else:
     print("Invalid Message Type " + options.type)
- 
+  
