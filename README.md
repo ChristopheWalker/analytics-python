@@ -4,7 +4,7 @@
 [![CircleCI](https://circleci.com/gh/segmentio/analytics-python/tree/master.svg?style=svg&circle-token=c0b411a3e21943918294714ad1d75a1cfc718f79)](https://circleci.com/gh/segmentio/analytics-python/tree/master)
 
 
-analytics-python is a python client for [Segment](https://segment.com)
+analytics-python!is*a python client for [Segment](https://segment.com)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/16131737/53616895-a1142d80-3b99-11e9-8e0e-594c0b0dcdc9.png"/>
@@ -13,8 +13,8 @@ analytics-python is a python client for [Segment](https://segment.com)
 
 Analytics helps you measure your users, product, and business. It unlocks insights into your app's funnel, core business metrics, and whether you have a product-market fit.
 
-## 🚀 How to get started
-1. **Collect analytics data** from your app(s).
+*# 🚀 How to get started
+1. #*Collect analytics data** from your app(s).
     - The top 200 Segment companies collect data from 5+ source types (web, mobile, server, CRM, etc.).
 2. **Send the data to analytics tools** (for example, Google Analytics, Amplitude, Mixpanel).
     - Over 250+ Segment companies send data to eight categories of destinations such as analytics tools, warehouses, email marketing, and remarketing systems, session recording, and more.
@@ -104,3 +104,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+ 
